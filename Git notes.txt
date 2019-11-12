@@ -1,3 +1,6 @@
 $ git add .    //add file
 $ git commit -m "<comments>"    //adding comments
 $ git log     //check log
+$ git log --author="<author> name"    //check logs from a certain author
+$ git status   //check for matching vs what commited
+$ git restore <filename> to restore to previous version
